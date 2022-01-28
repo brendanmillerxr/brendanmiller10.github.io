@@ -1,43 +1,43 @@
 [
   {
-    "descriptionId": 1,
+    "id": 1,
     "type": "positive",
     "body": "You are honest and responsible, something you look for in other people you want to make close relationships with."
   },
   {
-    "descriptionId": 2,
+    "id": 2,
     "type": "positive",
     "body": "You often face adversity with an open mind, and approach situations with an adaptable mindset."  },
   {
-    "descriptionId": 3,
+    "id": 3,
     "type": "positive",
     "body": "Persistence is key and you've been aware of it your whole life, constantly striving to complete tasks."  },
   {
-    "descriptionId": 4,
+    "id": 4,
     "type": "positive",
     "body": "Others often look to you as a beacon of empathy, someone who is understanding and relates well to others." },
   {
-    "descriptionId": 5,
+    "id": 5,
     "type": "positive",
     "body": "You are couragous in when faced with a challenge, and won't give up when your back is against the wall."  },
   {
-    "descriptionId": 6,
+    "id": 6,
     "type": "positive",
     "body": "Dogs should look to you as an example of how to be loyal, others can rely on you without question." },
   {
-    "descriptionId": 7,
+    "id": 7,
     "type": "positive",
     "body": "Creativity flows from your mind, and others often come to you for ideas or motivation to start a new project."  },
   {
-    "descriptionId": 8,
+    "id": 8,
     "type": "positive",
     "body": "You are often optimistic in your outlook on life. The little things don't bother you and you prefer to look at the big picture."  },
   {
-    "descriptionId": 9,
+    "id": 9,
     "type": "positive",
     "body": "Your thoughts are your own - you are independent and don't let others influence your beliefs." },
   {
-    "descriptionId": 10,
+    "id": 10,
     "type": "positive",
     "body": "You are humble when faced with praise, and often understate your accomplishments."
   }
